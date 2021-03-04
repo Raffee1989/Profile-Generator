@@ -1,7 +1,7 @@
 # Team-Profile-Generator
 
 ## Description 
-This program will generate a profile HTML page after all the information for employees is provided via node.
+This program will generate a profile HTML page after all the information for employees is provided via node command-line application.
 
 ## Images
 Demonstration GIF:
@@ -22,3 +22,6 @@ Go to terminal and do the following commands.
 * `npm i` to install all necesarry modules. 
 
 * `node app.js` to run the application. 
+
+## License
+
