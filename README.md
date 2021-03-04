@@ -24,4 +24,5 @@ Go to terminal and do the following commands.
 * `node app.js` to run the application. 
 
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
